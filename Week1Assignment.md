@@ -1,0 +1,1 @@
+Git is a version control software that makes it easy for large teams to work on a project. GitHub allows you to create repositories and push file changes to a branch and merge branches to compile work. Git makes it easy to work on the same file or even line with options to choose which changes to keep via merge conflicts.
