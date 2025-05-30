@@ -18,3 +18,6 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/noahbino/msse-642.git
    cd your-repo
+
+
+[Assignment 3](./Assignments/Assignment2/assignment3iarrobino.md)
